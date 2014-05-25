@@ -1,7 +1,7 @@
 handbrake-helper
 ================
 
-helper to automate converting bulk files using the handbrake cli
+helper to automate converting bulk files using the handbrake cli.  This uses the "high" preset for now.
 
 -i input folder to search for files
 
